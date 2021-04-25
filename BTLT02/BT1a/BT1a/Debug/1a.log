@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (1a.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+E:\F\OOP\18520597_NgocDiem_BT2\1a\1a\Main.cpp(50,10): warning C4129: 'P': unrecognized character escape sequence
+  1a.vcxproj -> E:\F\OOP\18520597_NgocDiem_BT2\1a\Debug\BT1a.exe
