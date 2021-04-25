@@ -1,0 +1,19 @@
+Bài 1:
+a.	Viết chương trình nhập vào một phân số, rút gọn phân số và xuất kết quả.
+b.	Viết chương trình nhập vào hai phân số, tìm phân số lớn nhất và xuất kết quả.
+c.	Viết chương trình nhập vào hai phân số. Tính tổng, hiệu, tích, thương giữa chúng và xuất kết quả.
+Bài 2:
+a.	Viết chương trình nhập vào một ngày. Tìm ngày kế tiếp và xuất kết quả.
+b.	Viết chương trình nhập họ tên, điểm toán, điểm văn của một học sinh. Tính điểm trung bình và xuất kết quả.
+Bài 3: Cho một danh sách lưu thông tin của các nhân viên trong một công ty, thông tin gồm:
+- Mã nhân viên (chuỗi, tối đa là 8 ký tự)
+- Họ và tên (chuỗi, tối đa là 20 ký tự)
+- Phòng ban (chuỗi, tối đa 10 ký tự)
+- Lương cơ bản (số nguyên)
+- Thưởng (số nguyên)
+- Thực lãnh (số nguyên, trong đó thực lãnh = lương cơ bản + thưởng )
+Hãy thực hiện các công việc sau:
+a.	Tính tổng thực lãnh tháng của tất cả nhân viên trong công ty.
+b.	In danh sách những nhân viên có mức lương cơ bản thấp nhất.
+c.	Đếm số lượng nhân viên có mức thưởng >= 1200000.
+d.	In danh sách các nhân viên tăng dần theo phòng ban, nếu phòng ban trùng nhau thì giảm dần theo mã nhân viên.
